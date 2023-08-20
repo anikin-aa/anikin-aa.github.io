@@ -74,8 +74,8 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: |
-      > Welcome to anikin-aa blog! Here I will share small topics and notes that helps me during my daily work.
-      Mostly about Golang, PostgreSQL and Kubernetes (sometimes about other stuff, ClickHouse, ArangoDB, etc).
+      > Welcome to anikin-aa blog! Here I will share small topics and notes that help me during my daily work. 
+      Mostly about Golang, PostgreSQL, and Kubernetes (sometimes about other stuff, ClickHouse, ArangoDB, etc).
         
 
   socialIcons:

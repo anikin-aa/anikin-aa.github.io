@@ -1,0 +1,1 @@
+That's a repo that contains my small blog built by [hugo](https://gohugo.io/).
